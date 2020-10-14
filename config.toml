@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Researcher"
+title = "Gisela"
 theme = "hugo-researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 enableEmoji = true
