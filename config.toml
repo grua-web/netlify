@@ -1,6 +1,5 @@
 title = "Eddie Webb"
 baseURL = "/"
-theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
